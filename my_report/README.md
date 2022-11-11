@@ -1,12 +1,12 @@
 # Lesson: Digital & Serious Games
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
+### First and Last Name: Δημήτρης Σιούρας
+### University Registration Number: dpsd16099
 ### GitHub Personal Profile: xxx
 
 # Introduction
 
-test
+
 
 # Summary
 

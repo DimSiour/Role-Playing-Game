@@ -3,7 +3,7 @@
 ### First and Last Name: Δημήτρης Σιούρας
 ### University Registration Number: dpsd16099
 ### GitHub Personal Profile: https://github.com/DimSiour
-###Digital & Serious Games Personal Repository: https://dimsiour.github.io/Role-Playing-Game/
+Digital & Serious Games Personal Repository: https://dimsiour.github.io/Role-Playing-Game/
 
 # Introduction
 Στο μάθημα Ψηφιακά Παιχνίδια και Παιγνιώδης Μάθηση , καλούμαστε να φτιάξουμε ένα 2D παιχνίδι παρόμοιο με  την Ruby.
